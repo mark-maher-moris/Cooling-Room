@@ -1,4 +1,4 @@
-# learn_1
+# Cooling Room app for control resturants cooling rooms
 
 A new Flutter project.
 
