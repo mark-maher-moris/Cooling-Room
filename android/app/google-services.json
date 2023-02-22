@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923288834175",
+    "firebase_url": "https://maher-device-default-rtdb.firebaseio.com",
+    "project_id": "maher-device",
+    "storage_bucket": "maher-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923288834175:android:a822b8089a49cc59b86f4a",
+        "android_client_info": {
+          "package_name": "com.example.learn_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923288834175-hdv85sidg35jcdbqeahuqrkb651hsuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9EW0keF2-QR_IpjTfwYcs8zHHUszVgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923288834175-hdv85sidg35jcdbqeahuqrkb651hsuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
